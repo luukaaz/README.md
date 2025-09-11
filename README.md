@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Lucas Godoi</h1>
-<h3 align="center">Apaixonado por dados, finanças e inovação.</h3>
+<h3 align="center">Me interesso por dados, finanças e inovação.</h3>
 
 Com conhecimento significativo em finanças e startups, e vasta experiência em inovação e orientação empresarial, estou focado em aprimorar habilidades em análise de dados, geração de insights e desenvolvimento de dashboards. Destaco-me pela capacidade de transformar dados em informações estratégicas para decisões de negócios. Sempre em busca de aplicar tecnologia para resolver problemas e gerar valor, estou pronto para colaborar em soluções inovadoras e impactantes.
 
